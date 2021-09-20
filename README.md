@@ -2,10 +2,10 @@
 Hello, Priyadharshan here. I'm currently pursuing BE CSE in Kumaraguru College of Technology(Coimbatore, TamilNadu). 
 
 # Skills
-I'm a backend developer with practical knowledge about spring, springboot, spring MVC, JPA specification, REST API and Vanilla JS. I've done mini projects 
-working on Spring boot, Spring mvc, Spring data JPA, Hibernate and Restful webservices. I'm good at problem solving, and I practice in hackerrank and codeforces 
-occasionally. 
+I'm a backend developer with practical knowledge about spring, springboot, JPA specification(using hibernate), REST API and React js. I've done mini projects 
+working on Spring boot, Spring mvc, Spring data JPA, Hibernate and Restful webservices.
 
+### Springboot-backend-project
 [Restful Webservice Project](https://github.com/Viper-10/RestfulWebServiceDemoProject)
 
 # Experience
