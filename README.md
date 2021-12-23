@@ -1,4 +1,4 @@
-# About Me 
+## About 
 Hello, Priyadharshan here.
 Degree : BE CSE (2019-2023) 
 
@@ -7,17 +7,17 @@ I'm a Full stack developer and I use the techstack spring, springboot, My SQL,  
 Programming Languages : C, C++, Java and js. 
 Query Languages : SQL, MongoDB
 
-#### My Project 
+## My Project 
 ### QuoteAway Website 
 https://quoteaway.herokuapp.com/#/
 
-# Experience
+## Experience
 Innovation Coordinator of DA-CSE (2020-2021)
     - I've been organising contents for Department Association of CSE for the academic year 2020-2021 and I managed the github repositories of DA-CSE.
     
 Tech Team of DA-CSE(2021-2022)    
 
-# Contact 
+## Contact 
 
 You can contact me through my email priyadharshanbeepee@gmail.com. 
 
