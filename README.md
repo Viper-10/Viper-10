@@ -6,7 +6,6 @@ Degree : BE CSE (2019-2023)
 
 ## My Project 
 ### QuoteAway Website 
-https://quoteaway.herokuapp.com/#/
 
 ## Experience
 Innovation Coordinator of DA-CSE (2020-2021)
