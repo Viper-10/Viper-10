@@ -7,12 +7,6 @@ Degree : BE CSE (2019-2023)
 ## My Project 
 ### QuoteAway Website 
 
-## Experience
-Innovation Coordinator of DA-CSE (2020-2021)
-    - I've been organising contents for Department Association of CSE for the academic year 2020-2021 and I managed the github repositories of DA-CSE.
-    
-Tech Team of DA-CSE(2021-2022)    
-
 ## Skills 
 Programming Languages : C, C++, Java and js. 
 Query Languages : SQL, MongoDB
