@@ -1,6 +1,6 @@
 ## About 
 Hello, Priyadharshan here.
-I'm a Full stack developer and I use the techstack spring, springboot, My SQL,  REST API and React js.
+I'm a Full stack developer, React js and Spring boot developer. 
 
 Degree : BE CSE (2019-2023) 
 
