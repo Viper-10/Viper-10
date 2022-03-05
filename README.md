@@ -7,11 +7,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/priyadharshan ravichandran" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyadharshan ravichandran" height="30" width="40" /></a>
-<a href="https://instagram.com/priyadharshan_23" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyadharshan_23" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/viper_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="viper_10" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/viper_10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="viper_10" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/viper-10" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="viper-10" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/priyadharshan ravichandran" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="priyadharshan ravichandran" height="30" width="40" /></a>
+<a href="https://instagram.com/priyadharshan_23" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="priyadharshan_23" height="30" width="40" /></a>
+<a href="https://www.hackerrank.com/viper_10" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="viper_10" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/viper_10" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="viper_10" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/viper-10" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="viper-10" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
